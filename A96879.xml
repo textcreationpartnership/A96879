@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter concerning the coin</title>
+            <author>Woods, Thomas, refiner.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96879</idno>
+            <idno type="STC">Wing W3474A</idno>
+            <idno type="STC">ESTC R227711</idno>
+            <idno type="EEBO-CITATION">99897777</idno>
+            <idno type="PROQUEST">99897777</idno>
+            <idno type="VID">133139</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133139)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2539:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter concerning the coin</title>
+                  <author>Woods, Thomas, refiner.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: December 1695. Tho. Woods, refiner.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  Great Britain --  1688-1815 --  Early works to 1800.</term>
+               <term>Guinea (Coin) --  Early works to 1800.</term>
+               <term>Money --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:133139:1" rendition="simple:additions"/>
+            <head>A LETTER Concerning the COIN.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>6. Dec. 1695</add>
+                  </date>
+               </dateline>
+               <lb/>
+               <salute>SIR,</salute>
+            </opener>
+            <p>OUR Silver Coin in <hi>England</hi> being ſo very bad, and growing every day worſe, it is high time by Recoining of it to recover it to its former goodneſs and value, which I hope to make appear is not ſo diffi<g ref="char:EOLhyphen"/>cult a thing as ſome Perſons believe it to be.</p>
+            <p>In the firſt place, as to <hi>Guineas,</hi> I humbly conceive the beſt way will be to ſettle them by Act of Parliament to paſs Currant at thirty Shillings for one year, from the date of the ſaid Act to the laſt day of the next Seſſion of Parliament; by which time, if the Silver Coin be ſettled, there will be better judging how to proceed further concerning them.</p>
+            <p>As to the Silver Mony, That it be Coined the ſame Weight and Good<g ref="char:EOLhyphen"/>neſs as formerly, but to be valued higher as ſhall be thought fit; And that it may be declared in the Act for Coinage how much Plate perſons of all Qualities ſhall keep in their Houſes.</p>
+            <p>That the Large Mony (ſo that the Hundred Pounds weigh Twenty Five Pounds,) Together with all ſuperfluous Plate be brought in at the day, and to ſuch Places as the Commiſſioners for the Coinage ſhall appoint: the ſaid Commiſſioners to be aſſiſted by all the Commiſſioners, Aſſeſſors, and Collectors of the Land Tax, and all Civil Officers.</p>
+            <p>In order to which, that there be appointed, by the ſaid Act for Coin<g ref="char:EOLhyphen"/>age, Twelve Commiſſioners for the City of <hi>London,</hi> and the ſame num<g ref="char:EOLhyphen"/>ber in each County in <hi>England</hi> and <hi>Wales,</hi> to manage the Affair of the Coinage in their reſpective Counties: of which Commiſſioners His Majeſty to chuſe Six, and the Houſe of Commons Six for <hi>London,</hi> and each County.</p>
+            <p>That the Commiſſioners ſo appointed for <hi>London,</hi> and thoſe for Twenty of the next adjoyning Counties to <hi>London,</hi> do chuſe our one Perſon from amongſt themſelves to be of the Grand Committee for Coinage at <hi>London,</hi> to ſit and manage that Affair at their Office in <hi>London.</hi>
+            </p>
+            <p>That the ſaid Commiſſioners, in their ſeveral Counties, ſhall receive the Plate and Mony, and ſend it to <hi>London,</hi> to the Grand Committee at their Office, to be Coined, and by them to be returned in Mony.</p>
+            <pb n="2" facs="tcp:133139:2"/>
+            <p>That if the ſaid Commiſſioners are informed, or do believe that any Perſon hath concealed, and not brought in his Mony and Plate as he ought to have done, the ſaid Commiſſioners to have power to Aſſeſs every ſuch Perſon 20. <hi>l. per Cent.</hi> for his Large Mony, and the like for his Plate; the ſaid Perſon for relief, to diſcharge himſelf by Oath.</p>
+            <p>That the Mony ſo brought in to be Recoined be received by Tale, to prevent ſuch Perſons getting who have laid up great Quantities of Large Mony, and the loſs of others who ſhall at laſt have the ſmalleſt Mony in their Hands: And the Plate to be received by Weight at an appointed Price.</p>
+            <p>That the Mony and Plate be received at three times, and delivered in Mony at ſix times, the Heavy Mony and Plate firſt, the reſt at twice. That County that ſends firſt Mony and Plate in, to have it firſt in courſe as faſt as the Mony can be Coined: And all ſuch Mony as ſhall be refuſed at the Office as Bad from any County, ſhall be Melted, and the Loſs to be abated upon the whole Mony of that County, as it ſhall amount to by the Pound Serling.</p>
+            <p>That the Grand Committee at <hi>London</hi> do give out their Orders to the Commiſſioners for Coinage in the ſeveral Counties, and receive from them the Mony and Plate at their Office in <hi>London,</hi> and cauſe it to be melted into Ingots, and delivered to the Mint in the Tower; and when Coined to receive the Mony and pay the ſame to the ſeveral Agents for the ſaid Commiſſioners for Coinage in the Country.</p>
+            <p>
+               <hi>Goldſmiths-Hall</hi> in <hi>London</hi> will be a very good place for the Office or Treaſury for this Affair, there being convenience for the ſaid Grand Com<g ref="char:EOLhyphen"/>mittee to Sit, Rooms for the telling of the Mony and weighing of the Plate: and ſtrong and ſafe Rooms to fecure it all in; and alſo in the Hall and adjacent places may be made good Melting-Rooms. It lies con<g ref="char:EOLhyphen"/>venient for Carriers and others who ſhall bring the Mony and Plate to <hi>London.</hi>
+            </p>
+            <p>That there be a Tax laid upon <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> To be raiſed in three Years, to bear the Loſs and Charge of Recoining the Mony. The ſaid Tax Mony will be eaſily gathered and received by the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners, for the Coinage in their ſeveral Counties. The ſaid Commiſſioners to be Accountable to the Grand Committee at <hi>London,</hi> and they to Ac<g ref="char:EOLhyphen"/>count to the <hi>Exchequer,</hi> and if there be any overpluſs of the ſaid Mony to pay it into the <hi>Exchequ<g ref="char:cmbAbbrStroke">̄</g>er</hi> for Publick Uſe.</p>
+            <p>I ſhall be ready to Anſwer to ſuch Objections as are made in Writing, if by Order, and ſhall add ſuch other things as ſhall occur to my mind that may be of Uſe.</p>
+            <closer>
+               <dateline>
+                  <date>December 1695.</date>
+               </dateline>
+               <signed>
+                  <hi>Tho. Woods,</hi> Refiner.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
